@@ -1,2 +1,38 @@
-# first-program
-It's my first time coding and I've tried programming my own website 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      Logo
+      <a href="/index.html">home</a>
+    </nav>
+    <main>
+      <section>
+        <h1>to do list</h1>
+        <p>let's get it staaaarteeeeed</p>
+        <img src="./assets/nhung-hinh-xam-doi-dep-05.jpg" alt="" />
+        <img src="./assets/./dashbord/IMG_2686.jpg" alt="" />
+        <ul>
+          <li>get a job</li>
+          <li>be loved</li>
+          <li>get my dream car</li>
+        </ul>
+      </section>
+      <section>
+        <h1>get a job</h1>
+        <ol>
+          <li>get 2 girlfriends actually</li>
+          <li>get my dream gtr</li>
+          <li>idfk im out of ideas</li>
+        </ol>
+      </section>
+    </main>
+
+    <footer>Copyright Terms& Conditions</footer>
+  </body>
+</html>
